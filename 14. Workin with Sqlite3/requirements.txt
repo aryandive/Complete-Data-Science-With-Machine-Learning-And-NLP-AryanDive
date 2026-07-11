@@ -1,0 +1,2 @@
+ipykernel
+pysqlite3
